@@ -10,7 +10,7 @@ View All Blogs: The application displays a list of all blogs, showing their titl
 Delete a Blog: Users can delete blogs they no longer want to keep.
 
 C)Technology Stack:
-Node.js: The runtime environment for the application.
+Node.js: The runtime environment for the application. 
 Express: The web framework for routing and handling HTTP requests.
 MongoDB: The database for storing blog data.
 EJS: The template engine for rendering dynamic HTML views.
